@@ -1,1 +1,2 @@
-# Meu-projeto-semantico1
+# Meu Projeto Semântico
+Este projeto é para praticar commits com semântica.
